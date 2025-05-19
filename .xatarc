@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://yaridak807-s-workspace-rdg14m.us-east-1.xata.sh/db/bit-cast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
